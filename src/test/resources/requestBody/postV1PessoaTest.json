@@ -1,0 +1,20 @@
+{
+  "nome":"Monica Fernandes da Silva",
+  "cpf":"32145874589",
+  "enderecos":[
+    {
+      "logradouro":"Braulio de Souza Leite",
+      "numero":"414",
+      "complemento":"Casa",
+      "bairro":"Maria Bonnatti Bordgnom",
+      "cidade":"Mogi Mirim",
+      "estado":"SP"
+    }
+  ],
+  "telefones":[
+    {
+      "ddd":"19",
+      "numero":"995214587"
+    }
+  ]
+}
